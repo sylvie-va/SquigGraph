@@ -903,6 +903,7 @@ function updateEqHandles() {
         return;
     }
     let handles = gEqHandles.selectAll("g.eq-handle").data(handleData.data, d => d.index);
+    handles.exit().remove();
     let enter = handles.enter().append("g")
         .attr("class", "eq-handle")
         .attr("pointer-events", "all");
