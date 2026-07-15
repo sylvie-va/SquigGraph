@@ -1,0 +1,242 @@
+[
+    {
+        "name":   "Huawei",
+        "phones": [
+            {
+                "name": "Freebuds Pro 2",
+                "file": [
+                    "FreebudsPro2"
+                ],
+                "suffix": [
+                    ""
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            },
+
+			{
+                "name": "Freebuds 3i",
+                "file": [
+                    "Freebuds3i"
+                ],
+                "suffix": [
+                    ""
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            }
+        ]
+    },
+
+    {
+        "name":   "Lenovo",
+        "phones": [
+            {
+                "name": "Thinkplus XT88",
+                "file": [
+                    "ThinkplusXT88"
+                ],
+                "suffix": [
+                    ""
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            }
+        ]
+    },
+
+    {
+        "name":   "Moondrop",
+        "phones": [
+            {
+                "name": "Blessing 3",
+                "file": [
+                    "b3",
+		    "B3Spring",
+		    "B3TypeE",
+		    "B3UC",
+		    "B3Velvet"
+                ],
+                "suffix": [
+                    "",
+		    "Spring",
+		    "Type E",
+		    "Softears UC",
+		    "Velvet"
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            },
+			{
+                "name": "Chu 2",
+                "file": [
+                    "Chu2",
+		    "Chu2Spring",
+		    "Chu2Velvet"
+                ],
+                "suffix": [
+                    "",
+		    "Spring",
+		    "Velvet"
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            }
+        ]
+    },
+
+    {
+        "name":   "OnePlus",
+        "phones": [
+            {
+                "name": "Nord Buds 2",
+                "file": [
+                    "Nord2_8kHz",
+                    "Nord2_Deep"
+                ],
+                "suffix": [
+                    "",
+                    "Deep"
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            }
+        ]
+    },
+
+
+    {
+        "name":   "Samsung",
+        "phones": [
+            {
+                "name": "Galaxy Buds+",
+                "file": [
+                    "Buds+",
+                    "Buds+Dynamic"
+                ],
+                "suffix": [
+                    "",
+                    "Dynamic"
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            },
+
+			{
+                "name": "Galaxy Buds2",
+                "file": [
+                    "Buds2"
+                ],
+                "suffix": [
+                    ""
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            }
+        ]
+    },
+
+    {
+        "name":   "Sennheiser",
+        "phones": [
+            {
+                "name": "IE 600",
+                "file": [
+			"IE600 Sil S3",
+			"IE600SilS2",
+		    "IE600Sil",
+            "IE600W1",
+		    "IE600TypeE",
+		    "IE600Velvet",
+		    "IE600Kinera"
+                ],
+                "suffix": [
+			"Silicone S3",
+			"Silicone S2",
+		    "Silicone S1",
+            "Spinfit W1 S1",
+		    "Type E S1",
+		    "Divinus Velvet S1",
+		    "Kinera Clear/Coffee S1"
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            }
+        ]
+    },
+
+    {
+        "name":   "Tennmak",
+        "phones": [
+            {
+                "name": "Pro (R)",
+                "file": [
+		    "TennmakAVG"
+                ],
+                "suffix": [
+		    ""
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            }
+        ]
+    },
+
+    {
+        "name":   "Truthear",
+        "phones": [
+            {
+                "name": "Hola",
+                "file": [
+                    "Hola"
+                ],
+                "suffix": [
+                    ""
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            },
+
+			{
+                "name": "Zero: Red",
+                "file": [
+                    "Zero Red Stock Narrow",
+                    "Zero Red Stock Wide",
+                    "Zero Red Spring"
+                ],
+                "suffix": [
+                    "Stock Narrow",
+                    "Stock Wide",
+                    "Spring"
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            }
+        ]
+    }
+
+]

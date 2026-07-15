@@ -1,0 +1,109 @@
+
+/* Primary color theme */
+:root {
+    --accent-color: hsl(212, 62%, 35%);
+    --accent-color-contrast: hsl(223, 12%, 42%);
+
+    --background-color: hsl(29, 73%, 93%);
+    --background-color-contrast: hsl(0, 0%, 90%);
+    --background-color-contrast-more: hsl(223, 12%, 58%);
+    --background-color-graph: hsl(29, 100%, 96%);
+
+    --background-color-inputs: hsl(29, 100%, 97%);
+
+    --font-color-primary: hsl(223, 25%, 10%);
+    --font-color-secondary: hsl(29, 100%, 100%);
+    --font-color-inputs: hsl(0, 0%, 0%);
+
+    --font-primary: 'Open Sans', sans-serif;
+    --font-secondary: monospace;
+
+    --scrollbar-color: 255,255,255;
+    --scrollbar-accent: 0,0,0;
+
+    --header-color: hsl(223, 25%, 10%);
+    --header-links-color: hsl(0, 0%, 0%);
+    --header-menu-icon-color: hsl(0, 0%, 0%);
+
+    --logo-filter: none;
+    --svg-filter: invert(0);
+}
+
+body.theme-dark {
+    --accent-color: hsl(60, 70%, 55%);
+    --accent-color-contrast: hsl(32, 85%, 90%);
+
+    --background-color: hsl(223, 25%, 10%);
+    --background-color-contrast: hsl(223, 25%, 10%);
+    --background-color-contrast-more: hsl(0, 0%, 29%);
+    --background-color-graph: hsl(234, 14%, 7%);
+
+    --background-color-inputs: hsl(234, 14%, 7%);
+
+    --font-color-primary: hsl(32, 85%, 90%);
+    --font-color-secondary: hsl(0, 0%, 0%);
+    --font-color-inputs: hsl(0, 0%, 100%);
+
+    --font-primary: 'Open Sans', sans-serif;
+    --font-secondary: monospace;
+
+    --scrollbar-color: 0,0,0;
+    --scrollbar-accent: 255,255,255;
+
+    --header-color: hsl(223, 25%, 10%);
+    --header-links-color: hsl(45, 85%, 60%);
+    --header-menu-icon-color: hsl(0, 0%, 100%);
+
+    --logo-filter: none;
+    --svg-filter: invert(0);
+}
+
+body.theme-contrast {
+    --accent-color: hsl(0, 0%, 0%);
+    --accent-color-contrast: hsl(0, 0%, 0%);
+
+    --background-color: hsl(0, 0%, 100%);
+    --background-color-contrast: hsl(0, 0%, 0%);
+    --background-color-contrast-more: hsl(0, 0%, 0%);
+    --background-color-graph: hsl(0, 0%, 100%);
+    
+    --background-color-inputs: hsl(0, 0%, 100%);
+    
+    --font-color-primary: hsl(0, 0%, 0%);
+    --font-color-secondary: hsl(0, 0%, 100%);
+    --font-color-inputs: hsl(0, 0%, 0%);
+    
+    --font-primary: 'Open Sans', sans-serif;
+    --font-secondary: monospace;
+    
+    --scrollbar-color: 255,255,255;
+    --scrollbar-accent: 0,0,0;
+    
+    --header-color: hsl(215, 20%, 10%);
+    --header-links-color: hsl(0, 0%, 100%);
+    --header-menu-icon-color: hsl(0, 0%, 100%);
+    
+    --logo-filter: invert(1.0);
+    --svg-filter: none;
+}
+
+/***** Squiglink site address *****/
+
+image.wm-squiglink-logo {
+}
+
+text.wm-squiglink-address {
+    color: var(--font-color-primary);
+    color: magenta;
+    font-family: var(--font-primary);
+    font-weight: 700;
+    font-size: 14px;
+    
+    filter: var(--svg-filter);
+}
+
+g.curves-g path.target + path.target {
+    stroke-dasharray: 20, 10 !important;
+    stroke-width: 2.5;
+    opacity: 0.4;
+}
