@@ -1,5 +1,6 @@
 // Original code by Marshall Lochbaum (https://github.com/mlochbaum)
 // Heavily modified by HarutoHiroki (https://harutohiroki.com)
+// Further modified by sylvie-va
 var doc = d3.select(".graphtool");
 doc.html(`
   <svg style="display: none;">
@@ -1103,7 +1104,7 @@ try {
 }
 
 let ifURL = typeof share_url !== "undefined" && share_url;
-let baseTitle = typeof page_title !== "undefined" ? page_title : "Haruto's Graph Tool (CrinGraph)";
+let baseTitle = typeof page_title !== "undefined" ? page_title : "SquigGraph";
 let baseDescription = typeof page_description !== "undefined" ? page_description : "View and compare frequency response graphs";
 let baseURL;  // Set by setInitPhones
 function addPhonesToUrl() {

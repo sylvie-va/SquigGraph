@@ -124,7 +124,7 @@ function watermark(svg) {
     
     wmSq.append("text")
         .attrs({x:641, y:314, "font-size":10, "transform":"translate(0,0)", "text-anchor":"end", "class":"wm-squiglink-address"})
-        .text("squig.link/lab/harutohiroki");
+        .text("sylvie-va.github.io/SquigGraph");
 }
 
 
