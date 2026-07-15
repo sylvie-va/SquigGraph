@@ -42,10 +42,13 @@ const init_phones = ["IEM HP.com DF Target"],// Optional. Which graphs to displa
 
 // Specify which targets to display
 const targets = [
-    { type:"Reference",  files:["IEM HP.com DF","Delta","JM-1","ISO 11904-1 DF (711 Z)"] },
-    { type:"Preference", files:["SoundGuys"] },
-	{ type:"Flat", files:["Flat"]},
-	{ type: "Harman", files:["Harman 2019 (5128)", "11904-1 Harman 2018 Filters"]}
+    { type:"Reference",  files:["IEM HP.com DF",
+                                    "Delta",
+                                    "JM-1",
+                                    "ISO 11904-1 DF (711 Z)"] },
+    { type:"Preference", files:["SoundGuys",
+                                    "Harman 2019 (5128)"] },
+	{ type:"Flat", files:["Flat"] },
 ];
 
 // Haruto's Addons
