@@ -180,11 +180,11 @@ const linkSets = [
         links: [
             {
                 name: "Listener 5128",
-                url: "https://listener800.github.io/5128iem.html/"
+                url: "https://listener800.github.io/5128iem.html"
             },
             {
                 name: "Listener 711",
-                url: "https://listener800.github.io/iems.html/"
+                url: "https://listener800.github.io/iems.html"
             },
             {
                 name: "Hangout 5128",
